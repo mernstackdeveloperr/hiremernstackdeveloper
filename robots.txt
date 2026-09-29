@@ -1,0 +1,6 @@
+# https://hiremernstackdeveloper.vercel.app/robots.txt
+User-agent: *
+Allow: /
+
+# XML Sitemap Location
+Sitemap: https://hiremernstackdeveloper.vercel.app/sitemap.xml
